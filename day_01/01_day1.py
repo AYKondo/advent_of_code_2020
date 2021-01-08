@@ -11,6 +11,9 @@ def find_two_number(numbers, target_number):
 if __name__ == "__main__":
     numbers = list()
     with open('./input.txt', 'r') as f:
-        for currenty_number in f:
-            numbers.append(int(currenty_number))
+        lines = f.readlines()
+
+    for currenty_number in lines:
+        numbers.append(int(currenty_number))
+        
     print(find_two_number(numbers, 2020))

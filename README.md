@@ -8,3 +8,4 @@ Advent of Code 2020 challenge
 #### Day 5: Binary Boarding - [Solution](https://github.com/AYKondo/advent_of_code_2020/tree/master/day_05)
 #### Day 6: Custom Customs - [Solution](https://github.com/AYKondo/advent_of_code_2020/tree/master/day_06)
 #### Day 7: Handy Haversacks - [Solution](https://github.com/AYKondo/advent_of_code_2020/tree/master/day_07)
+#### Day 8: Handheld Halting - [Solution](https://github.com/AYKondo/advent_of_code_2020/tree/master/day_08)
